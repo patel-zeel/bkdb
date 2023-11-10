@@ -1,0 +1,7 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "lat_lag",
+        "lon_lag"
+    ],
+    "coordinates": "lat lon"
+}

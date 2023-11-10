@@ -1,0 +1,10 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "lat_lag",
+        "lon_lag",
+        "raw",
+        "col",
+        "channel"
+    ],
+    "coordinates": "lat lon"
+}
