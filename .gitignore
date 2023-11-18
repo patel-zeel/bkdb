@@ -162,3 +162,6 @@ cython_debug/
 
 # Zarr ignore metadata file
 .zmetadata
+
+# Zarr files
+*.zarr
