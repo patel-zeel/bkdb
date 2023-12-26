@@ -1,0 +1,88 @@
+wandb_version: 1
+
+fold:
+  desc: null
+  value: 0
+model_type:
+  desc: null
+  value: cnn
+lr:
+  desc: null
+  value: 0.001
+batch_size:
+  desc: null
+  value: 128
+epochs:
+  desc: null
+  value: 4
+seed:
+  desc: null
+  value: 0
+data_version:
+  desc: null
+  value: v1
+image_dims:
+  desc: null
+  value:
+  - 224
+  - 224
+input_channels:
+  desc: null
+  value: 3
+kernel_size:
+  desc: null
+  value: 3
+conv_hidden_dims:
+  desc: null
+  value:
+  - 16
+  - 32
+  - 64
+dense_hidden_dims:
+  desc: null
+  value:
+  - 64
+n_classes:
+  desc: null
+  value: 2
+activation:
+  desc: null
+  value: ReLU()
+len_data:
+  desc: null
+  value: 12318
+n_bk:
+  desc: null
+  value: 734
+_wandb:
+  desc: null
+  value:
+    python_version: 3.11.5
+    cli_version: 0.15.12
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: true
+    start_time: 1701118189.703528
+    t:
+      1:
+      - 1
+      - 30
+      - 41
+      - 54
+      - 55
+      2:
+      - 1
+      - 30
+      - 41
+      - 54
+      - 55
+      3:
+      - 2
+      - 16
+      - 23
+      4: 3.11.5
+      5: 0.15.12
+      8:
+      - 2
+      - 5
+      13: linux-x86_64
