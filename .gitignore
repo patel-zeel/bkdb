@@ -165,3 +165,4 @@ cython_debug/
 
 # Zarr files
 *.zarr
+*.zattrs
